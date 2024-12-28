@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\bin\Debug\net8.0\The Replicator of D'To.exe
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\bin\Debug\net8.0\The Replicator of D'To.deps.json
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\bin\Debug\net8.0\The Replicator of D'To.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\bin\Debug\net8.0\The Replicator of D'To.dll
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\bin\Debug\net8.0\The Replicator of D'To.pdb
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.sourcelink.json
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.dll
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\refint\The Replicator of D'To.dll
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.pdb
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\The Replicator of D'To.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 1\The Replicator of D'To\obj\Debug\net8.0\ref\The Replicator of D'To.dll

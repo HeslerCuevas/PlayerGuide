@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\bin\Debug\net8.0\The Four Sisters.exe
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\bin\Debug\net8.0\The Four Sisters.deps.json
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\bin\Debug\net8.0\The Four Sisters.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\bin\Debug\net8.0\The Four Sisters.dll
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\bin\Debug\net8.0\The Four Sisters.pdb
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.sourcelink.json
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.dll
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\refint\The Four Sisters.dll
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.pdb
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\The Four Sisters.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 1\The Four Sisters and The Duckbear\The Four Sisters\obj\Debug\net8.0\ref\The Four Sisters.dll
