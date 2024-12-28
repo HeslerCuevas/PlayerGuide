@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\bin\Debug\net8.0\Buying Inventory.exe
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\bin\Debug\net8.0\Buying Inventory.deps.json
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\bin\Debug\net8.0\Buying Inventory.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\bin\Debug\net8.0\Buying Inventory.dll
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\bin\Debug\net8.0\Buying Inventory.pdb
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.sourcelink.json
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.dll
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\refint\Buying Inventory.dll
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.pdb
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\Buying Inventory.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 1\Buying Inventory\obj\Debug\net8.0\ref\Buying Inventory.dll

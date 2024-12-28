@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.sourcelink.json
+D:\C# Player's Guide Projects\Part 1\Watchtower\bin\Debug\net8.0\Watchtower.exe
+D:\C# Player's Guide Projects\Part 1\Watchtower\bin\Debug\net8.0\Watchtower.deps.json
+D:\C# Player's Guide Projects\Part 1\Watchtower\bin\Debug\net8.0\Watchtower.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 1\Watchtower\bin\Debug\net8.0\Watchtower.dll
+D:\C# Player's Guide Projects\Part 1\Watchtower\bin\Debug\net8.0\Watchtower.pdb
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.dll
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\refint\Watchtower.dll
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.pdb
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\Watchtower.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 1\Watchtower\obj\Debug\net8.0\ref\Watchtower.dll
