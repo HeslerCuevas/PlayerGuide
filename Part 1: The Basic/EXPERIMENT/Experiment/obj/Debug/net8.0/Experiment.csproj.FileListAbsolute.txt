@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\bin\Debug\net8.0\Experiment.exe
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\bin\Debug\net8.0\Experiment.deps.json
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\bin\Debug\net8.0\Experiment.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\bin\Debug\net8.0\Experiment.dll
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\bin\Debug\net8.0\Experiment.pdb
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.sourcelink.json
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.dll
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\refint\Experiment.dll
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.pdb
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\Experiment.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 1\EXPERIMENT\Experiment\obj\Debug\net8.0\ref\Experiment.dll
