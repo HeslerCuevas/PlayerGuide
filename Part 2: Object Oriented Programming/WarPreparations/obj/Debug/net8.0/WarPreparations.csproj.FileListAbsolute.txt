@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\WarPreparations\bin\Debug\net8.0\WarPreparations.exe
+D:\C# Player's Guide Projects\Part 2\WarPreparations\bin\Debug\net8.0\WarPreparations.deps.json
+D:\C# Player's Guide Projects\Part 2\WarPreparations\bin\Debug\net8.0\WarPreparations.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\WarPreparations\bin\Debug\net8.0\WarPreparations.dll
+D:\C# Player's Guide Projects\Part 2\WarPreparations\bin\Debug\net8.0\WarPreparations.pdb
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.dll
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\refint\WarPreparations.dll
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.pdb
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\WarPreparations.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\WarPreparations\obj\Debug\net8.0\ref\WarPreparations.dll
