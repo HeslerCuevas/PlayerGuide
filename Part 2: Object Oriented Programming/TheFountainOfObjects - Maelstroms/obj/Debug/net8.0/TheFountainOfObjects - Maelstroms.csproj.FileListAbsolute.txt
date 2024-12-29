@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\bin\Debug\net8.0\TheFountainOfObjects - Maelstroms.exe
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\bin\Debug\net8.0\TheFountainOfObjects - Maelstroms.deps.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\bin\Debug\net8.0\TheFountainOfObjects - Maelstroms.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\bin\Debug\net8.0\TheFountainOfObjects - Maelstroms.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\bin\Debug\net8.0\TheFountainOfObjects - Maelstroms.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\refint\TheFountainOfObjects - Maelstroms.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\TheFountainOfObjects - Maelstroms.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Maelstroms\obj\Debug\net8.0\ref\TheFountainOfObjects - Maelstroms.dll

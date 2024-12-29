@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TheFountainOfObjects - Small, Medium, or Large/1.0.0": {
+        "runtime": {
+          "TheFountainOfObjects - Small, Medium, or Large.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TheFountainOfObjects - Small, Medium, or Large/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

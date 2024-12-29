@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\bin\Debug\net8.0\TheFountainOfObjects - Pits.exe
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\bin\Debug\net8.0\TheFountainOfObjects - Pits.deps.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\bin\Debug\net8.0\TheFountainOfObjects - Pits.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\bin\Debug\net8.0\TheFountainOfObjects - Pits.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\bin\Debug\net8.0\TheFountainOfObjects - Pits.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\refint\TheFountainOfObjects - Pits.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\TheFountainOfObjects - Pits.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Pits\obj\Debug\net8.0\ref\TheFountainOfObjects - Pits.dll
