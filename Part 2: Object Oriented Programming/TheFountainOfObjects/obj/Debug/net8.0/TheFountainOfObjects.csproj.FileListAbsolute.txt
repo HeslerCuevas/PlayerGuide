@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.exe
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.deps.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\bin\Debug\net8.0\TheFountainOfObjects.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\refint\TheFountainOfObjects.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\TheFountainOfObjects.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects\obj\Debug\net8.0\ref\TheFountainOfObjects.dll
