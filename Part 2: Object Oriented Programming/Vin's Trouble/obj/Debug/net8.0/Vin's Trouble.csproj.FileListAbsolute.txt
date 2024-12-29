@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\bin\Debug\net8.0\Vin's Trouble.exe
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\bin\Debug\net8.0\Vin's Trouble.deps.json
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\bin\Debug\net8.0\Vin's Trouble.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\bin\Debug\net8.0\Vin's Trouble.dll
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\bin\Debug\net8.0\Vin's Trouble.pdb
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.dll
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\refint\Vin's Trouble.dll
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.pdb
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\Vin's Trouble.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\Vin's Trouble\obj\Debug\net8.0\ref\Vin's Trouble.dll

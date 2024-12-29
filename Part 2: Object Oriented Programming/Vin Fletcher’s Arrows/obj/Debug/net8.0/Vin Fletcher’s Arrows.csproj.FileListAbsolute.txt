@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.exe
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.deps.json
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.dll
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.pdb
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.dll
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\refint\Vin Fletcher’s Arrows.dll
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.pdb
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\Vin Fletcher’s Arrows\obj\Debug\net8.0\ref\Vin Fletcher’s Arrows.dll
