@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\bin\Debug\net8.0\TheFountainOfObjects - Amaroks.exe
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\bin\Debug\net8.0\TheFountainOfObjects - Amaroks.deps.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\bin\Debug\net8.0\TheFountainOfObjects - Amaroks.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\bin\Debug\net8.0\TheFountainOfObjects - Amaroks.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\bin\Debug\net8.0\TheFountainOfObjects - Amaroks.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\refint\TheFountainOfObjects - Amaroks.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\TheFountainOfObjects - Amaroks.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Amaroks\obj\Debug\net8.0\ref\TheFountainOfObjects - Amaroks.dll

@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\bin\Debug\net8.0\TheFountainOfObjects - Getting Armed.exe
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\bin\Debug\net8.0\TheFountainOfObjects - Getting Armed.deps.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\bin\Debug\net8.0\TheFountainOfObjects - Getting Armed.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\bin\Debug\net8.0\TheFountainOfObjects - Getting Armed.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\bin\Debug\net8.0\TheFountainOfObjects - Getting Armed.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\refint\TheFountainOfObjects - Getting Armed.dll
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.pdb
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\TheFountainOfObjects - Getting Armed.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheFountainOfObjects - Getting Armed\obj\Debug\net8.0\ref\TheFountainOfObjects - Getting Armed.dll
