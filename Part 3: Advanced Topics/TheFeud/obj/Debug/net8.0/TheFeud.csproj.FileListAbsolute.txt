@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheFeud\bin\Debug\net8.0\TheFeud.exe
+D:\C# Player's Guide Projects\Part 2\TheFeud\bin\Debug\net8.0\TheFeud.deps.json
+D:\C# Player's Guide Projects\Part 2\TheFeud\bin\Debug\net8.0\TheFeud.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheFeud\bin\Debug\net8.0\TheFeud.dll
+D:\C# Player's Guide Projects\Part 2\TheFeud\bin\Debug\net8.0\TheFeud.pdb
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.dll
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\refint\TheFeud.dll
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.pdb
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\TheFeud.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheFeud\obj\Debug\net8.0\ref\TheFeud.dll

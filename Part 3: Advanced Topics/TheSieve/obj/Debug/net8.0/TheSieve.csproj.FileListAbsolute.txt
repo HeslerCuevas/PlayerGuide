@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 3\TheSieve\bin\Debug\net8.0\TheSieve.exe
+D:\C# Player's Guide Projects\Part 3\TheSieve\bin\Debug\net8.0\TheSieve.deps.json
+D:\C# Player's Guide Projects\Part 3\TheSieve\bin\Debug\net8.0\TheSieve.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 3\TheSieve\bin\Debug\net8.0\TheSieve.dll
+D:\C# Player's Guide Projects\Part 3\TheSieve\bin\Debug\net8.0\TheSieve.pdb
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.sourcelink.json
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.dll
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\refint\TheSieve.dll
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.pdb
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\TheSieve.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 3\TheSieve\obj\Debug\net8.0\ref\TheSieve.dll
