@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.exe
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.deps.json
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.dll
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\bin\Debug\net8.0\TheLockedDoor.pdb
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.dll
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\refint\TheLockedDoor.dll
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.pdb
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\TheLockedDoor.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\TheLockedDoor\obj\Debug\net8.0\ref\TheLockedDoor.dll
