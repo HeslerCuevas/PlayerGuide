@@ -1,0 +1,5 @@
+D:\C# Player's Guide Projects\Part 2\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\The Properties of Arrows\obj\Debug\net8.0\The Properties of Arrows.sourcelink.json
