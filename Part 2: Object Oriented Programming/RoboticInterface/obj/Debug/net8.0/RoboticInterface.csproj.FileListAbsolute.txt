@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\bin\Debug\net8.0\RoboticInterface.exe
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\bin\Debug\net8.0\RoboticInterface.deps.json
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\bin\Debug\net8.0\RoboticInterface.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\bin\Debug\net8.0\RoboticInterface.dll
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\bin\Debug\net8.0\RoboticInterface.pdb
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.dll
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\refint\RoboticInterface.dll
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.pdb
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\RoboticInterface.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\RoboticInterface\obj\Debug\net8.0\ref\RoboticInterface.dll

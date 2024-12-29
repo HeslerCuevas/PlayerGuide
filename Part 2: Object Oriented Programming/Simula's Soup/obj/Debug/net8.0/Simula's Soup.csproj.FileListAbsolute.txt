@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.sourcelink.json
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\bin\Debug\net8.0\Simula's Soup.exe
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\bin\Debug\net8.0\Simula's Soup.deps.json
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\bin\Debug\net8.0\Simula's Soup.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\bin\Debug\net8.0\Simula's Soup.dll
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\bin\Debug\net8.0\Simula's Soup.pdb
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.dll
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\refint\Simula's Soup.dll
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.pdb
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\Simula's Soup.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 1\Simula's Soup\obj\Debug\net8.0\ref\Simula's Soup.dll
