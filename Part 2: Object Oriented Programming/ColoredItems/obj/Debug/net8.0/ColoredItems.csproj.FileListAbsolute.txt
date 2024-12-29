@@ -1,0 +1,15 @@
+D:\C# Player's Guide Projects\Part 2\ColoredItems\bin\Debug\net8.0\ColoredItems.exe
+D:\C# Player's Guide Projects\Part 2\ColoredItems\bin\Debug\net8.0\ColoredItems.deps.json
+D:\C# Player's Guide Projects\Part 2\ColoredItems\bin\Debug\net8.0\ColoredItems.runtimeconfig.json
+D:\C# Player's Guide Projects\Part 2\ColoredItems\bin\Debug\net8.0\ColoredItems.dll
+D:\C# Player's Guide Projects\Part 2\ColoredItems\bin\Debug\net8.0\ColoredItems.pdb
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.AssemblyInfoInputs.cache
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.AssemblyInfo.cs
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.csproj.CoreCompileInputs.cache
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.sourcelink.json
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.dll
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\refint\ColoredItems.dll
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.pdb
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ColoredItems.genruntimeconfig.cache
+D:\C# Player's Guide Projects\Part 2\ColoredItems\obj\Debug\net8.0\ref\ColoredItems.dll
